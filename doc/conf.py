@@ -40,7 +40,6 @@ extensions = ['sphinx.ext.autodoc',
               'sphinx.ext.coverage',
               'sphinx.ext.viewcode',
               'sphinx.ext.graphviz',
-              'sphinxcontrib.programoutput'
               ]
 
 # Now, you can use the alias name as a new role, e.g. :issue:`123`.
